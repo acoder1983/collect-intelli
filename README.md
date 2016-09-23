@@ -1,1 +1,1 @@
-# collect-intelli
+# problems in programming collective intelligence
